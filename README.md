@@ -1,1 +1,2 @@
-# learn_JShonkakuNyumon
+# JavaScript本格入門
+写経学習用リポジトリ
